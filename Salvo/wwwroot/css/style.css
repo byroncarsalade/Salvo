@@ -1,0 +1,137 @@
+.grid-stack-item-content {
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    cursor: -webkit-grab;
+    cursor: -moz-grab;
+    left: 0px !important;
+}
+
+.CarrierHorizontal{
+    background-image: url('../img/carrierhor.png');
+    background-size: contain;
+}
+
+.CarrierVertical {
+    background-image: url('../img/carrierver.png');
+    background-size: 100% 100%;
+    width: 42px !important;
+}
+
+.PatroalBoatHorizontal {
+    background-image: url('../img/patrolboathor.png');
+    background-size: contain;
+}
+
+.PatroalBoatVertical {
+    background-image: url('../img/patrolboatver.png');
+    background-size: 100% 100%;
+    width: 42px !important;
+}
+
+.SubmarineHorizontal {
+    background-image: url('../img/submarinehor.png');
+    background-size: contain;
+}
+
+.SubmarineVertical {
+    background-image: url('../img/submarinever.png');
+    background-size: 100% 100%;
+    width: 42px !important;
+}
+
+.DestroyerHorizontal {
+    background-image: url('../img/destroyerhor.png');
+    background-size: contain;
+}
+
+.DestroyerVertical {
+    background-image: url('../img/destroyerver.png');
+    background-size: 100% 100%;
+    width: 42px !important;
+}
+
+.BattleShipHorizontal {
+    background-image: url('../img/battleshiphor.png');
+    background-size: contain;
+}
+
+.BattleShipVertical {
+    background-image: url('../img/battleshipver.png');
+    background-size: 100% 100%;
+    width: 42px !important;
+}
+
+
+.grid-ships {
+    border: solid black;
+    height: 450px;
+    width: 450px;
+    background-image: url('../img/grid-bkg.png');
+    background-size: contain;
+    padding-left: 42px;
+    padding-top: 42px;
+    position: relative;
+}
+
+.salvo-table{
+    border: solid black 1px;
+    background-image: url('../img/backships.gif');
+    background-size: contain;
+}
+
+.salvo-table th{
+    background-color: rgb(213, 213, 213);
+    text-align: center;
+}
+
+.salvo-table .td-info {
+    background-color: rgb(213, 213, 213);
+    text-align: center;
+}
+
+.salvo-table th, .salvo-table td {
+    border: solid black 1px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.shoot{
+    background-image: url('../img/targetself.png');
+    background-size: contain;
+}
+
+.hitSelf {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('../img/hit3.gif');
+    background-size: contain;
+}
+
+.shooted {
+    background-image: url('../img/targetself.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hitOpponent {
+    background-image: url('../img/hit3.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#playersList{
+    display: inline;
+    margin-left: 20px;
+    color: black;
+}
+
+#playersList #playerOne {
+    color: red;
+}
+
+.shipsStatus{
+    background-color: #3b7ad3;
+    max-width: 450px;
+}

@@ -1,0 +1,66 @@
+﻿body {
+    background-image: url('../img/battleship.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, .5);
+}
+
+#user-name{
+    color: red;
+    vertical-align: middle;
+}
+
+#games-list{
+    display: inline-block;
+}
+
+#game-state {
+    margin: 10px 10px 10px 0px;
+    border: dashed white 1px;
+    display: inline-block;
+    min-width: 350px;
+    padding: 5px;
+    background-color: #484d5c;
+    font-family: 'Oswald', sans-serif;
+    color: #ffce00;
+    text-align: center;
+}
+
+#game-state span{
+    display: block;
+}
+
+.img-state{
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 100px;
+}
+
+.img-state-wait {
+    background-image: url(../img/wait.gif);
+}
+
+.img-state-ship {
+    background-image: url(../img/place_ship.gif);
+}
+
+.img-state-fire {
+    background-image: url(../img/fire.gif);
+}
+
+.img-state-win {
+    background-image: url(../img/win.gif);
+}
+
+.img-state-loss {
+    background-image: url(../img/loss.gif);
+}
+
+.img-state-tie {
+    background-image: url(../img/tie.gif);
+}

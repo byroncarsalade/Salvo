@@ -1,0 +1,258 @@
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.input.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.output.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorCoreGenerate.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.Views.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.input.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.output.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorCoreGenerate.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.Views.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.input.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.output.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorCoreGenerate.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.Views.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega3\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega4\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega5\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 5\Entrega6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 6\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad 7\Entrega 1\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad10\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\Bootcamp\Actividad11\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.AssemblyReference.cache
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+D:\Informatica\Cursos\8-Bootcamp\Actividad 11\Salvo - parte 2\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete

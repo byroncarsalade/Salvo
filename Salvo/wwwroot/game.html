@@ -1,0 +1,295 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel="stylesheet">
+    <link rel="stylesheet" href="css/salvo.css" />
+    <link rel="stylesheet" href="dist/normalize.css" />
+    <link rel="stylesheet" href="dist/gridstack.css" />
+    <link rel="stylesheet" href="dist/gridstack-extra.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Salvo games!</title>
+</head>
+<body>
+    <div id="app">
+        <!-- Image and text -->
+        <nav class="navbar navbar-light bg-light">
+            <a class="navbar-brand" href="#">
+                <img src="img/target.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+                Salvo
+                <div id="playersList">
+                    <span id="playerOne">{{ player.email }}</span>
+                    <span v-if="opponent.email != null"> vs {{ opponent.email }}</span>
+                </div>
+            </a>
+            <button v-on:click="logout" id="logout-btn" class="btn btn-outline-secondary ml-1 my-2 my-sm-0" type="button">Logout</button>
+        </nav>
+        <div class="container mt-2">
+            <div class="row mb-3">
+                <div class="col">
+                    <div class="row">
+                        <div class="col">
+                            <h2>Barcos</h2>
+                            <div class="shipsStatus">
+                                <span><img id="CarrierIcon" src="img/carrierafloat.png"></span>
+                                <span><img id="BattleShipIcon" src="img/battleshipafloat.png"></span>
+                                <span><img id="SubmarineIcon" src="img/submarineafloat.png"></span>
+                                <span><img id="DestroyerIcon" src="img/destroyerafloat.png"></span>
+                                <span><img id="PatroalBoatIcon" src="img/patroalboatafloat.png"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-1">
+                        <div class="col">
+                            <button v-if="gameView.ships && gameView.ships.length < 5" class="btn btn-success btn-sm mb-3" v-on:click="placeShips()">Posicionar barcos!!</button>
+                            <div class="grid-ships">
+                                <!-- div que usa la librería gridstack grid-stack-10 se indica que son 10 columnas-->
+                                <div id="grid" class="grid-stack grid-stack-10">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="row">
+                        <div class="col">
+                            <h2>Salvos</h2>
+                            <div class="shipsStatus">
+                                <span><img id="OpponentCarrierIcon" src="img/carrierafloat.png"></span>
+                                <span><img id="OpponentBattleShipIcon" src="img/battleshipafloat.png"></span>
+                                <span><img id="OpponentSubmarineIcon" src="img/submarineafloat.png"></span>
+                                <span><img id="OpponentDestroyerIcon" src="img/destroyerafloat.png"></span>
+                                <span><img id="OpponentPatroalBoatIcon" src="img/patroalboatafloat.png"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-1">
+                        <div class="col">
+                            <button v-if="gameView.gameState == 'ENTER_SALVO'" class="btn btn-success btn-sm mb-3" v-on:click="placeSalvos()">Disparar salvos!!</button>
+                            <table class="salvo-table">
+                                <thead>
+                                    <tr>
+                                        <th></th>
+                                        <th>1</th>
+                                        <th>2</th>
+                                        <th>3</th>
+                                        <th>4</th>
+                                        <th>5</th>
+                                        <th>6</th>
+                                        <th>7</th>
+                                        <th>8</th>
+                                        <th>9</th>
+                                        <th>10</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="td-info">A</td>
+                                        <td class="salvo" id="A1"></td>
+                                        <td class="salvo" id="A2"></td>
+                                        <td class="salvo" id="A3"></td>
+                                        <td class="salvo" id="A4"></td>
+                                        <td class="salvo" id="A5"></td>
+                                        <td class="salvo" id="A6"></td>
+                                        <td class="salvo" id="A7"></td>
+                                        <td class="salvo" id="A8"></td>
+                                        <td class="salvo" id="A9"></td>
+                                        <td class="salvo" id="A10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">B</td>
+                                        <td class="salvo" id="B1"></td>
+                                        <td class="salvo" id="B2"></td>
+                                        <td class="salvo" id="B3"></td>
+                                        <td class="salvo" id="B4"></td>
+                                        <td class="salvo" id="B5"></td>
+                                        <td class="salvo" id="B6"></td>
+                                        <td class="salvo" id="B7"></td>
+                                        <td class="salvo" id="B8"></td>
+                                        <td class="salvo" id="B9"></td>
+                                        <td class="salvo" id="B10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">C</td>
+                                        <td class="salvo" id="C1"></td>
+                                        <td class="salvo" id="C2"></td>
+                                        <td class="salvo" id="C3"></td>
+                                        <td class="salvo" id="C4"></td>
+                                        <td class="salvo" id="C5"></td>
+                                        <td class="salvo" id="C6"></td>
+                                        <td class="salvo" id="C7"></td>
+                                        <td class="salvo" id="C8"></td>
+                                        <td class="salvo" id="C9"></td>
+                                        <td class="salvo" id="C10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">D</td>
+                                        <td class="salvo" id="D1"></td>
+                                        <td class="salvo" id="D2"></td>
+                                        <td class="salvo" id="D3"></td>
+                                        <td class="salvo" id="D4"></td>
+                                        <td class="salvo" id="D5"></td>
+                                        <td class="salvo" id="D6"></td>
+                                        <td class="salvo" id="D7"></td>
+                                        <td class="salvo" id="D8"></td>
+                                        <td class="salvo" id="D9"></td>
+                                        <td class="salvo" id="D10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">E</td>
+                                        <td class="salvo" id="E1"></td>
+                                        <td class="salvo" id="E2"></td>
+                                        <td class="salvo" id="E3"></td>
+                                        <td class="salvo" id="E4"></td>
+                                        <td class="salvo" id="E5"></td>
+                                        <td class="salvo" id="E6"></td>
+                                        <td class="salvo" id="E7"></td>
+                                        <td class="salvo" id="E8"></td>
+                                        <td class="salvo" id="E9"></td>
+                                        <td class="salvo" id="E10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">F</td>
+                                        <td class="salvo" id="F1"></td>
+                                        <td class="salvo" id="F2"></td>
+                                        <td class="salvo" id="F3"></td>
+                                        <td class="salvo" id="F4"></td>
+                                        <td class="salvo" id="F5"></td>
+                                        <td class="salvo" id="F6"></td>
+                                        <td class="salvo" id="F7"></td>
+                                        <td class="salvo" id="F8"></td>
+                                        <td class="salvo" id="F9"></td>
+                                        <td class="salvo" id="F10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">G</td>
+                                        <td class="salvo" id="G1"></td>
+                                        <td class="salvo" id="G2"></td>
+                                        <td class="salvo" id="G3"></td>
+                                        <td class="salvo" id="G4"></td>
+                                        <td class="salvo" id="G5"></td>
+                                        <td class="salvo" id="G6"></td>
+                                        <td class="salvo" id="G7"></td>
+                                        <td class="salvo" id="G8"></td>
+                                        <td class="salvo" id="G9"></td>
+                                        <td class="salvo" id="G10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">H</td>
+                                        <td class="salvo" id="H1"></td>
+                                        <td class="salvo" id="H2"></td>
+                                        <td class="salvo" id="H3"></td>
+                                        <td class="salvo" id="H4"></td>
+                                        <td class="salvo" id="H5"></td>
+                                        <td class="salvo" id="H6"></td>
+                                        <td class="salvo" id="H7"></td>
+                                        <td class="salvo" id="H8"></td>
+                                        <td class="salvo" id="H9"></td>
+                                        <td class="salvo" id="H10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">I</td>
+                                        <td class="salvo" id="I1"></td>
+                                        <td class="salvo" id="I2"></td>
+                                        <td class="salvo" id="I3"></td>
+                                        <td class="salvo" id="I4"></td>
+                                        <td class="salvo" id="I5"></td>
+                                        <td class="salvo" id="I6"></td>
+                                        <td class="salvo" id="I7"></td>
+                                        <td class="salvo" id="I8"></td>
+                                        <td class="salvo" id="I9"></td>
+                                        <td class="salvo" id="I10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="td-info">J</td>
+                                        <td class="salvo" id="J1"></td>
+                                        <td class="salvo" id="J2"></td>
+                                        <td class="salvo" id="J3"></td>
+                                        <td class="salvo" id="J4"></td>
+                                        <td class="salvo" id="J5"></td>
+                                        <td class="salvo" id="J6"></td>
+                                        <td class="salvo" id="J7"></td>
+                                        <td class="salvo" id="J8"></td>
+                                        <td class="salvo" id="J9"></td>
+                                        <td class="salvo" id="J10"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div id="game-state">
+                                <span>{{gameState}}</span>
+                                <div v-if="gameView.gameState == 'WAIT'" class="img-state img-state-wait"></div>
+                                <div v-else-if="gameView.gameState == 'PLACE_SHIPS'" class="img-state img-state-ship"></div>
+                                <div v-else-if="gameView.gameState == 'ENTER_SALVO'" class="img-state img-state-fire"></div>
+                                <div v-else-if="gameView.gameState == 'WIN'" class="img-state img-state-win"></div>
+                                <div v-else-if="gameView.gameState == 'LOSS'" class="img-state img-state-loss"></div>
+                                <div v-else-if="gameView.gameState == 'TIE'" class="img-state img-state-tie"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-2">
+                <div class="col">
+                    <div class="row">
+                        <div class="col">
+                            <table class="table table-sm table-dark table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Turno</th>
+                                        <th>Daños</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr v-for="hit in gameView.hits">
+                                        <td>{{hit.turn}}</td>
+                                        <td><span v-for="shipHit in hit.hits">{{ shipHit.hits.length > 0 ? shipHit.type +' (' + shipHit.hits.length  + ') ' : '' }}</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="col">
+                            <table class="table table-sm table-dark table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Turno</th>
+                                        <th>Daños</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr v-for="hit in gameView.hitsOpponent">
+                                        <td>{{hit.turn}}</td>
+                                        <td><span v-for="shipHit in hit.hits">{{ shipHit.hits.length > 0 ? shipHit.type +' (' + shipHit.hits.length  + ') ' : '' }}</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/es.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.10/lodash.min.js"></script>
+    <script src="dist/jquery-ui.min.js"></script>
+    <script src="dist/gridstack.js"></script>
+    <script src="dist/gridstack.jQueryUI.js"></script>
+    <script src="dist/jquery.ui.touch-punch.min.js"></script>
+    <script src="js/gameView.js"></script>
+</body>
+</html>
